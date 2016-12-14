@@ -94,6 +94,7 @@ Everything. All of it.
 		svg
 
 -= JS =-
+
 	comment
 	prompt/alert
 	console.log
@@ -216,6 +217,7 @@ Everything. All of it.
 		webgl
 
 -= jQuery =-
+
 	jQuery Object/collection
 	targetting/selection
 	implicit iteration
@@ -225,6 +227,7 @@ Everything. All of it.
 	Ajax
 
 -= Mobile responsive =-
+
 	media queries
 	float
 	width
