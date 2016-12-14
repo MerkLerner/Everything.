@@ -3,6 +3,7 @@ Everything. All of it.
 
 
 -= GIT =-
+
 	make a git repo inside a file
 	check on the state
 	add a file to the next commit
@@ -13,7 +14,9 @@ Everything. All of it.
 	copy a library
 
 -= css =-
+
 	implement an id, and a class in html, then reference it in CSS
+	
 	selectors
 	specificity
 	margin collapsing
