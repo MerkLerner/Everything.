@@ -174,6 +174,8 @@ Everything. All of it.
 
 		document
 		window
+			innerHeight/ html.clientHeight
+			innerWidth/ hmtl.clientWidth
 		console
 		location
 		localStorage
@@ -187,6 +189,8 @@ Everything. All of it.
 			Set up an event listener
 				event bubbling
 				custom events
+				
+			getBoundingClientRect()
 
 		setTimeout
 		SetInterval
