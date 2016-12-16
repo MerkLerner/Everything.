@@ -4,14 +4,14 @@ Everything. All of it.
 
 -= GIT =-
 
-	make a git repo inside a file
-	check on the state
-	add a file to the next commit
-	make a commit
-	add an origin
+	make a git repo inside a file - git init
+	check on the state - git status
+	add a file to the next commit - git add []
+	make a commit - git commint -m ''
+	add an origin - git remote add origin []
 
 	pull
-	copy a library
+	copy a library git 
 
 -= css =-
 
@@ -19,14 +19,23 @@ Everything. All of it.
 	
 	selectors
 	specificity
+		inline overrides all
+		! only used when page specific needs to work w/ library
 	margin collapsing
 	comment
 	inheritance
 
-
+	keyframes
+	
 	px, em, %
 	BOX MODEL
 	display:
+		none
+		list-item
+		block
+		table
+		inline
+		flex
 
 	flex!
 
@@ -180,7 +189,10 @@ Everything. All of it.
 		location
 		localStorage
 
-
+		node 
+			a node is an interface, 
+			node.children/parent
+		
 		Dom Manipulation
 
 			select an element by 
@@ -191,6 +203,9 @@ Everything. All of it.
 				custom events
 				
 			getBoundingClientRect()
+			
+			adding and removing event listeners with closures
+			http://stackoverflow.com/questions/4402287/javascript-remove-event-listener
 
 		setTimeout
 		SetInterval
@@ -200,7 +215,8 @@ Everything. All of it.
 			json
 			onload
 			response codes
-
+		XML
+		namespaces
 	for later:
 
 
