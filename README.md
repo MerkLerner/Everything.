@@ -3,6 +3,7 @@ Everything. All of it.
 
 
 -= GIT =-
+	https://www.siteground.com/tutorials/git/commands.htm
 
 	make a git repo inside a file - git init
 	check on the state - git status
@@ -24,8 +25,6 @@ Everything. All of it.
 	margin collapsing
 	comment
 	inheritance
-
-	keyframes
 	
 	px, em, %
 	BOX MODEL
@@ -38,16 +37,20 @@ Everything. All of it.
 		flex
 
 	flex!
+	https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 	columns
+	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts
 
 	counters
+	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters
 
 	media queries
 
 	overflow
 	postition
 
+	https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 	meta - viewport
 	meta - charset
 	meta google crawler
@@ -57,11 +60,14 @@ Everything. All of it.
 	height
 	min/max
 
+	keyframes
+	https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
+
 -= SASS =-
+	mixin
 
 -= bootstrap =-
 	container/columns
-
 
 -= html =-
 	METADATA
@@ -157,6 +163,7 @@ Everything. All of it.
 		hasOwnProperty
 
 	event loop
+		https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 	memory management
 
@@ -164,6 +171,7 @@ Everything. All of it.
 		calltime
 		new operator
 		bind, apply, call
+		changes in fat arrow fnxns
 
 	try/catch
 
